@@ -1,22 +1,25 @@
-/* este es el codigo css ok-  */
+/* Estilos para el cuerpo de la página */
 body {
-    font-family: Arial, sans-serif;
-    /* margin: 60px; */
-    background-color: #f4f4f4;
+    font-family: Arial, sans-serif; /* Define la fuente y su alternativa */
+    /* margin: 60px; */ /* Comentario: Este margen está comentado, no se aplica */
+    background-color: #f4f4f4; /* Define el color de fondo */
 }
 
+/* Estilos para los encabezados h1 */
 h1 {
-    color: #333;
-    font-size: 40px;
-    font-weight: 600;
+    color: #333; /* Define el color del texto */
+    font-size: 40px; /* Define el tamaño de la fuente */
+    font-weight: 600; /* Define el grosor de la fuente */
 }
 
+/* Estilos para los párrafos */
 p {
-    font-size: 22px;   
-    text-align: center;
+    font-size: 22px; /* Define el tamaño de la fuente */
+    text-align: center; /* Centra el texto */
 }
 
+/* Estilos para los íconos sociales */
 .social-icon {
-    font-size: 40px; /* Ajusta el tamaño de los íconos */    
-    margin-left: 30px;
+    font-size: 40px; /* Ajusta el tamaño de los íconos */
+    margin-left: 30px; /* Define el margen izquierdo */
 }

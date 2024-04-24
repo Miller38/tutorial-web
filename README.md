@@ -1,10 +1,24 @@
-<h3>Tutorial programacion web</h3>
+# Tutorial de Programación Web
+
+Este es un proyecto de tutorial de programación web desarrollado con HTML, CSS y JavaScript. Proporciona información básica sobre conceptos fundamentales de la programación web, incluyendo HTML, CSS y JavaScript.
 
 ![Preview 1](preview1.jpg)
 
-<h3>link Deploy</h3>
-https://app.netlify.com/sites/tutorial-programacion-web/configuration/general
+### Temas Cubiertos
 
-<h4>Resources</h4>
+- Presencia en línea
+- Accesibilidad
+- Interactividad y Experiencia de Usuario
+- Innovación y Creatividad
+- Economía Digital
+- Desarrollo Profesional
 
+## Tecnologías Utilizadas
 <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap" /> <br/>
+
+<h3>link Deploy</h3>
+https://tutorial-programacion-web.netlify.app/
+
+## Créditos
+Diseñado por [Miller](https://github.com/Miller38).
+
