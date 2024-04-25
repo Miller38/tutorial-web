@@ -1,5 +1,4 @@
-<img align="right" src="http://visitor-badge.laobi.icu/badge?page_id=Miller38.tutorial-web" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 
 # Tutorial de Programación Web
 
