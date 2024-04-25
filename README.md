@@ -20,4 +20,7 @@ Este es un proyecto de tutorial de programación web desarrollado con HTML, CSS 
 https://tutorial-programacion-web.netlify.app/
 
 ## Créditos
-Designed by Milliany Tech ®2024
+## Designed by Milliany Tech ®2024
+Yuliet Faizuli Pachon Caro
+Nestor Fabian Gutierrez Sabogal
+Jorge Miller Gutierrez Ospina
