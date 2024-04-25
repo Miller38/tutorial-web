@@ -20,5 +20,4 @@ Este es un proyecto de tutorial de programación web desarrollado con HTML, CSS 
 https://tutorial-programacion-web.netlify.app/
 
 ## Créditos
-Diseñado por [Miller](https://github.com/Miller38).
-
+Designed by Milliany Tech ®2024
