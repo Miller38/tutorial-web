@@ -14,7 +14,17 @@ Este es un proyecto de tutorial de programación web desarrollado con HTML, CSS 
 - Desarrollo Profesional
 
 ## Tecnologías Utilizadas
-<img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,git,github,netlify,fontawesome" /> <br/>
+
+- Vscode
+- Html
+- Css
+- Bootstrap
+- Git
+- Github
+- Netlify
+- Fontawesome
+
+<img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,git,github,netlify" /> <br/>
 
 <h3>link Deploy</h3>
 https://tutorial-programacion-web.netlify.app/
