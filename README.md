@@ -22,5 +22,7 @@ https://tutorial-programacion-web.netlify.app/
 ## Créditos
 ## Designed by Milliany Tech ®2024
 Yuliet Faizuli Pachon Caro
+<br>
 Nestor Fabian Gutierrez Sabogal
+<br>
 Jorge Miller Gutierrez Ospina
